@@ -1,7 +1,6 @@
 
 ; Convert a doubleword from Big Endian order to Little Endian
 
-
 ; below is Block comment
 Comment !
 1. Converting from Big Endian to Little Endian
