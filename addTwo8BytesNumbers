@@ -9,7 +9,6 @@ Number1 = 1234567898765432h
 Number2 = 1234567898765432h
 !
 
-
 .386
 .model flat,stdcall
 .stack 4096
