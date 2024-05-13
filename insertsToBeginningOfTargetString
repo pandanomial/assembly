@@ -9,7 +9,8 @@ targetStr BYTE "Mellon University",30 DUP(0)
 sourceStr BYTE "Carnegie ",0
 .code
 !
- 
+
+
 ; INCLUDE Irvine32.inc
 .386
 .model flat,stdcall
