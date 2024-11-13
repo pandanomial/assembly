@@ -1,3 +1,4 @@
+!
 Write a general-purpose program (only assembly code and
 no procedure call) that inserts a source string to the beginning
 of a target string. Sufficient space must exist in the target string to
